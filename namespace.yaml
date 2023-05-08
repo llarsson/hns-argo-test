@@ -2,4 +2,4 @@ apiVersion: hnc.x-k8s.io/v1alpha2
 kind: SubnamespaceAnchor
 metadata:
   namespace: production
-  name: hsn-argo-test
+  name: hns-argo-test
