@@ -9,7 +9,7 @@ spec:
     namespace: hns-argo-test
   project: hns-argo-test
   source:
-    path: ./app/
+    path: app/
     repoURL: https://github.com/llarsson/hns-argo-test
     targetRevision: HEAD
   syncPolicy:
